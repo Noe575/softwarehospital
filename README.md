@@ -16,3 +16,5 @@ Gracias al profesor Miguel Darío por su apoyo, y darnos más tiempo para realiz
 ## Licencia
 
 Indica la licencia bajo la cual se distribuye el proyecto.
+
+GNU General Public License v3.0
