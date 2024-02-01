@@ -1,1 +1,4 @@
-
+# Ignorar archivos .class, .swp y archivos de proyecto del IDE
+*.class
+*.swp
+<softwarehospital>/
